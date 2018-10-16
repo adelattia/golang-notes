@@ -18,6 +18,7 @@ https://gobyexample.com/
 * Rob Pike (Unix, UTF-8)
 * Robert Grisemer (Hospot, JVM)
 
+#### Go is:
 * performant
 * multiple-cores
 * concurrency
